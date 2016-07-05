@@ -1,0 +1,24 @@
+---
+comment: Created by ALTA v2.0.1k for ALB v2.0.1
+files:
+- models/pch2.mod
+- models/nch.mod
+- models/start_time
+- models/pch.mod
+- models/mos_tt.lib
+- nmos4.asy
+- pmos4.asy
+- cap.asy
+- inverter.asc
+- inverter.asy
+- inverter.lib
+- UNIT.asc
+- UNIT.asy
+- UNIT.lib
+- ring32.asc
+- ring32.asy
+- voltage.asc
+- voltage.asy
+- ring32_tb.asc
+- ring32.asc
+- ring32_tb.asc
